@@ -1,0 +1,28 @@
+.top-color{
+	background:red;
+	width: 100vw;
+	height:150px;
+}
+.body-color{
+	background-color: yellow;
+	height: 100vh;
+	width: 100%;
+  position:absolute;
+  
+}
+.inner-top{
+	background-color: blue;
+	height: 80vh;
+	width: 75%;
+  position:relative;
+  margin:auto;
+
+}
+.inner-bottom{
+	background-color: green;
+	height: 20vh;
+	width: 75%;
+  position:relative;
+  margin:auto;
+	
+}
